@@ -314,6 +314,9 @@
                         <include>**/*Tests.java</include>
                     </includes>
                 </configuration>
+                <configuration>
+                    <useSystemClassLoader>false</useSystemClassLoader>
+                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
