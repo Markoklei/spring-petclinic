@@ -313,8 +313,6 @@
                     <includes>
                         <include>**/*Tests.java</include>
                     </includes>
-                </configuration>
-                <configuration>
                     <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
             </plugin>
